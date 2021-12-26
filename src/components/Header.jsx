@@ -2,7 +2,7 @@ import React from 'react';
 
 class Header extends React.Component {
     render() { 
-        return <h4>Expense Tracker</h4>;
+        return <h1>Expense Tracker</h1>;
     }
 }
  

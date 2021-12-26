@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+#root {
+  border : rgb(211,211,211);
+  background-color: #D3D3D3	;
+  padding: 10px;
+}
 body {
   background-color: #f7f7f7;
   display: flex;
@@ -89,7 +94,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #0000FF  ;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
